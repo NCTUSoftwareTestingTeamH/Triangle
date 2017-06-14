@@ -1,5 +1,5 @@
 #include<iostream>
-#include"gtest/gtest.h"
+//#include"gtest/gtest.h"
 #include"triangle.h"
 int triangle(int a,int b,int c){
 	if((a<1)||(b<1)||(c<1))
